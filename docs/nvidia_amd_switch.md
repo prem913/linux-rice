@@ -20,3 +20,7 @@
 * `__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia glxinfo | grep "OpenGL renderer"` -> nvidia
 * `glxinfo | grep "OpenGL renderer"` -> amd
 * then optimus is doing its thing.
+
+## Solution That Works
+
+* [Arch_Wiki_Nvidia_Linux_Only](https://wiki.archlinux.org/title/NVIDIA_Optimus#Use_NVIDIA_graphics_only)
